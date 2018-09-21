@@ -1,5 +1,6 @@
 # youtube-dl Web
-A web interface for `youtube-dl`
+* A web interface for `youtube-dl`
+* Designed for macOS
 
 # Prerequisites
 * `python3` (`brew install python3`)
@@ -15,3 +16,5 @@ A web interface for `youtube-dl`
   1. Download this repository
   2. `python3 {PATH_TO_FOLDER}/main.py`
       * Runs on port 8008
+
+# [Todo](https://github.com/hkamran80/youtubedl-web/projects/1)
